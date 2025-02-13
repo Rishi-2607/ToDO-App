@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy
-git clone (https://github.com/Rishi-2607/ToDO-App/tree/main)
+git clone (https://github.com/Rishi-2607/ToDO-App.git)
 Navigate to the project directory:
 
 bash
