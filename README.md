@@ -1,6 +1,6 @@
 A simple and responsive To-Do application that helps you manage and organize your tasks efficiently. The app features an interactive interface, intuitive design, and smooth animations.
 
-Features:-
+Features:- 
 
 Add Tasks: You can add tasks with a title and description.
 Delete Tasks: Tasks can be easily deleted when completed.
